@@ -1,12 +1,9 @@
 # ML_practice
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/fpcloudmike/ML_practice)
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/fpcloudmike/ML_practice)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/fpcloudmike/ML_practice)
 ![GitHub repo size](https://img.shields.io/github/repo-size/fpcloudmike/ML_practice)
 ![GitHub top language](https://img.shields.io/github/languages/top/fpcloudmike/ML_practice)
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/fpcloudmike/ML_practice/jupyter)
-![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/fpcloudmike/ML_practice/jupyterlab)
 
 Machine Learning(ML) for begineers
 
